@@ -57,7 +57,7 @@ The departmental policy is to grant an automatic grade of F in the course in whi
 
 We are working on getting a group email for the moderators. In the meantime, please direct any issues to:
 
-- [Andrew Drozdov](apd283@nyu.edu)
+- [Andrew Drozdov](mailto:apd283@nyu.edu)
 
 # License and Attribution
 
