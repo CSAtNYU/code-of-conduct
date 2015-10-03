@@ -26,6 +26,31 @@ In the CSAtNYU community we strive to go the extra step to look out for each oth
 
 And if someone takes issue with something you said or did, resist the urge to be defensive. Just stop doing what it was they complained about and apologize. Even if you feel you were misinterpreted or unfairly accused, chances are good there was something you could've communicated better — remember that it's your responsibility to make your fellow CSAtNYU members comfortable. Everyone wants to get along and we are all here first and foremost because we want to talk about how to make the best of our experience at NYU. You will find that people will be eager to assume good intent and forgive as long as you earn their trust.
 
+## Academic Dishonesty
+
+_CSAtNYU maintains the same standard for Academic Integrity as NYU. CSAtNYU is a platform for meeting and discussing shared interests with other NYU students, not a platform for sharing answers to exams or for colluding on assignments. Below is the text that is also seen on the NYU Graduate School's Computer Science Department's policy towards Academic Dishonesty ([link](http://www.cs.nyu.edu/web/Academic/Graduate/academic_dishonesty.html))._
+
+The Department of Computer Science takes academic dishonesty to be an unacceptable breach of conduct. We will not tolerate any form of cheating or plagiarism. Students are expected to conduct their work with the highest integrity and to avoid behaviors that jeopardize their own or other's educational progress.
+
+Academic disciplinary violations include, but are not limited to:
+
+- Collaborating on work intended to be done individually.
+- Collaborating on work, when permitted by the instructor, but not indicating that the work was a collaboration or not indicating with whom you collaborated.
+- Providing your work to someone else, unless specifically allowed by the instructor and properly attributed.
+- Submitting the same assignment to two different classes, unless specifically allowed by both instructors.
+- Having someone else do your assignments for you. Also asking someone else to do your assignments for you.
+- Doing someone else's assignments for them.
+- Submitting work based on other people's work without attribution. Ideas, algorithms, text, code, and experimental results all require proper attribution.
+- Looking at someone else's test during an exam or asking someone during the exam for help.
+- Possessing an unauthorized copy of an exam.
+- Using unauthorized technology to get answers during an exam.
+- Telling someone what answers to enter on their assignments.
+- Students providing information and those using it are ALL cheating and will ALL be subject to disciplinary action.
+
+Disciplinary actions vary in severity, and can result in probation and/or expulsion. For a complete outline of sanctions and procedures, please refer to [Topic 3: Discipline](http://www.nyu.edu/gsas/OASL/policiesprocedures/GSAS%20Policies%20and%20Procedures%20november%202004.pdf) in the GSAS Policies and Procedures Manual. 
+
+The departmental policy is to grant an automatic grade of F in the course in which the cheating occurred. The penalty for a second offense is termination from the graduate program.
+
 # Contact Info
 
 We are working on getting a group email for the moderators. In the meantime, please direct any issues to:
