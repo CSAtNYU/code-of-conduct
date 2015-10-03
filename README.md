@@ -30,7 +30,7 @@ And if someone takes issue with something you said or did, resist the urge to be
 
 ## Academic Dishonesty
 
-_CSAtNYU maintains the same standard for Academic Integrity as NYU. CSAtNYU is a platform for meeting and discussing shared interests with other NYU students, not a platform for sharing answers to exams or for colluding on assignments. Below is the text that is also seen on the NYU Graduate School's Computer Science Department's policy towards Academic Dishonesty ([link](http://www.cs.nyu.edu/web/Academic/Graduate/academic_dishonesty.html))._
+_CSAtNYU maintains the same standard for Academic Integrity as NYU. CSAtNYU is a platform for meeting and discussing shared interests with other NYU students, not a platform for sharing answers to exams or for colluding on assignments. Members suspected of any forms of cheating will be banned from this platform. Below is the text that is also seen on the NYU Graduate School's Computer Science Department's policy towards Academic Dishonesty ([link](http://www.cs.nyu.edu/web/Academic/Graduate/academic_dishonesty.html))._
 
 The Department of Computer Science takes academic dishonesty to be an unacceptable breach of conduct. We will not tolerate any form of cheating or plagiarism. Students are expected to conduct their work with the highest integrity and to avoid behaviors that jeopardize their own or other's educational progress.
 
