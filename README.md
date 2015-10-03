@@ -1,5 +1,7 @@
 # Code of Conduct
 
+CSAtNYU is a student communication platform maintained by volunteers. It is in no way officially affiliated with New York University.
+
 ## Conduct
 
 - We are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, religion, or similar personal characteristic.
