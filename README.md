@@ -15,7 +15,7 @@ CSAtNYU is a student communication platform maintained by volunteers. It is in n
 
 These are the policies for upholding our community's standards of conduct.
 
-1. Remarks that violate the Rust standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is allowed, but never targeting another user, and never in a hateful manner.)
+1. Remarks that violate the CSAtNYU standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is allowed, but never targeting another user, and never in a hateful manner.)
 2. Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed.
 3. Moderators will first respond to such remarks with a warning.
 4. If the warning is unheeded, the user will be "kicked," i.e., kicked off the platform to cool off.
